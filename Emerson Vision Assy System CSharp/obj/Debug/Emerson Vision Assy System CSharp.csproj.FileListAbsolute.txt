@@ -1,0 +1,12 @@
+D:\INFINITI\DEV\Emerson Vision Assy System CSharp\Emerson Vision Assy System CSharp\bin\Debug\Emerson Vision Assy System CSharp.exe.config
+D:\INFINITI\DEV\Emerson Vision Assy System CSharp\Emerson Vision Assy System CSharp\bin\Debug\Emerson Vision Assy System CSharp.exe
+D:\INFINITI\DEV\Emerson Vision Assy System CSharp\Emerson Vision Assy System CSharp\bin\Debug\Emerson Vision Assy System CSharp.pdb
+D:\INFINITI\DEV\Emerson Vision Assy System CSharp\Emerson Vision Assy System CSharp\obj\Debug\Emerson Vision Assy System CSharp.csprojAssemblyReference.cache
+D:\INFINITI\DEV\Emerson Vision Assy System CSharp\Emerson Vision Assy System CSharp\obj\Debug\Emerson_Vision_Assy_System_CSharp.Form1.resources
+D:\INFINITI\DEV\Emerson Vision Assy System CSharp\Emerson Vision Assy System CSharp\obj\Debug\Emerson_Vision_Assy_System_CSharp.Properties.Resources.resources
+D:\INFINITI\DEV\Emerson Vision Assy System CSharp\Emerson Vision Assy System CSharp\obj\Debug\Emerson Vision Assy System CSharp.csproj.GenerateResource.cache
+D:\INFINITI\DEV\Emerson Vision Assy System CSharp\Emerson Vision Assy System CSharp\obj\Debug\Emerson Vision Assy System CSharp.csproj.CoreCompileInputs.cache
+D:\INFINITI\DEV\Emerson Vision Assy System CSharp\Emerson Vision Assy System CSharp\obj\Debug\Emerson Vision Assy System CSharp.exe
+D:\INFINITI\DEV\Emerson Vision Assy System CSharp\Emerson Vision Assy System CSharp\obj\Debug\Emerson Vision Assy System CSharp.pdb
+D:\INFINITI\DEV\Emerson Vision Assy System CSharp\Emerson Vision Assy System CSharp\bin\Debug\RYB_PTL_API.dll
+D:\INFINITI\DEV\Emerson Vision Assy System CSharp\Emerson Vision Assy System CSharp\obj\Debug\Emerson Vision Assy System CSharp.csproj.CopyComplete
